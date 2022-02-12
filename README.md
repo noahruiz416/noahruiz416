@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**noahruiz416/noahruiz416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on various personal projects related to the transportation industry and real estate
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about how I got into data science & analytics!!
 - 📫 How to reach me: linkedin: www.linkedin.com/in/noahruiz416
 - ⚡ Fun fact: I really enjoy training combat sports!
--->
+
