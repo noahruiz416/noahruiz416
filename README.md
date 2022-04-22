@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Noah and I'm a Data Science and Economics student at Arizona State University! Alongisde school I am also interning as a data analyst at a large fortune 100 company and work as a statistics and mathematics tutor at my university. On this page you will find various personal data science projects I have worked on out of curiosity, for school or a combination of both.
+My name is Noah and I'm a student at Arizona State University studying Data Science with a conectration in Mathematics and a minor in Econ! Alongisde school I am also interning as a data analyst at a large fortune 100 company and work as a statistics and mathematics tutor at my university. On this page you will find various personal data science projects I have worked on out of curiosity, for school or a combination of both.
 
 - 🔭 I’m currently working on personal projects related to the transportation industry (aviation) and personal health.
 - 🌱 I’m currently learning regression analysis techniques, improving my knowledge of statistics and working on my overall data science workflow skills.
