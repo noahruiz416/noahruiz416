@@ -2,8 +2,8 @@
 
 My name is Noah and I'm a student at Arizona State University studying Mathematics, Statistics and Economics. On this page you will find various personal data science projects I have worked on out of curiosity, for school or a combination of both.
 
-- 🔭 I’m currently working on personal projects related to the transportation industry (aviation) and personal health.
-- 🌱 I’m currently learning regression analysis techniques, improving my knowledge of statistics and working on my overall data science workflow skills.
+- 🔭 I’m currently working on personal projects related to personal finance and bus transportation routes.
+- 🌱 I’m currently learning ML algorithim implmentations, improving my knowledge of statistics + probability and working on my overall data science skills.
 - 👯 I'm willing to collaborate on any data science projects!
 - 🤔 I’m looking for help with implementing better SWE practices in my code and data science projects.
 - 💬 Ask me about how I got into data science & analytics!
