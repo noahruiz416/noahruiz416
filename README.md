@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Noah and I'm a student at Arizona State University studying Mathematics, Statistics and Economics. On this page you will find various personal data science projects I have worked on out of curiosity, for school or a combination of both.
+My name is Noah and I'm a student at Arizona State University studying Economics with a minor in math. On this page you will find various personal data science projects I have worked on out of curiosity, for school or a combination of both.
 
 If interested please check out my portfolio site! It hosts one of my most recent projects that allows you to predict UFC fights!
 Link: https://noahruiz-about-me.herokuapp.com
